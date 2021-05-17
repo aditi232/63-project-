@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+}
+
+#one,two,third,fourth,fifth {
+    height: 100px;
+    width:300px;
+}
+
+.carousel.inner{
+    margin-bottom: 10px;
+    margin-top: 15px;
+color: white;
+}
+
+
+
+
+
